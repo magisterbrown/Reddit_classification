@@ -4,6 +4,7 @@
 reddit thread by different categories
 </div>
 <div>Project is made for Vilnius School of AI</div>
+<img src="back.jpg" width="1300" >
 <div>Data: unlabled meme images</div>
 <div>Goal: train a model that can classify background image of meme</div>
-<img src="back.jpg" width="1300" >
+
